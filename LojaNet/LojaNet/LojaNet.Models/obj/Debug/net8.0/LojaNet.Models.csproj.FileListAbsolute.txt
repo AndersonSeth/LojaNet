@@ -10,3 +10,15 @@ C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C
 C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\refint\LojaNet.Models.dll
 C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.pdb
 C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\ref\LojaNet.Models.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\bin\Debug\net8.0\LojaNet.Models.deps.json
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\bin\Debug\net8.0\LojaNet.Models.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\bin\Debug\net8.0\LojaNet.Models.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.AssemblyInfoInputs.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.AssemblyInfo.cs
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.csproj.CoreCompileInputs.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.sourcelink.json
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\refint\LojaNet.Models.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\ref\LojaNet.Models.dll

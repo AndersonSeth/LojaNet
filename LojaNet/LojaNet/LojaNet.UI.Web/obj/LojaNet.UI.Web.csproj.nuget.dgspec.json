@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj": {}
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
+        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
         "projectName": "LojaNet.Models",
-        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
+        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
         "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\obj\\",
+        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj": {
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
+        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
         "projectName": "LojaNet.UI.Web",
-        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
+        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
         "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.UI.Web\\obj\\",
+        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
-                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
+              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
               }
             }
           }
@@ -108,6 +108,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

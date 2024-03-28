@@ -1,0 +1,6 @@
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLLL.csproj.AssemblyReference.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLLL.AssemblyInfoInputs.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLLL.AssemblyInfo.cs
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLLL.csproj.CoreCompileInputs.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLLL.sourcelink.json

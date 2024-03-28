@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj": {}
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj": {
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj",
         "projectName": "LojaNet.DAL",
-        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj",
+        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj",
         "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.DAL\\obj\\",
+        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
-                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
+              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
+        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
         "projectName": "LojaNet.Models",
-        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
+        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
         "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\workspace\\Projeto Loja em C#\\LojaNet\\LojaNet\\LojaNet.Models\\obj\\",
+        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
