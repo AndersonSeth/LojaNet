@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LojaNet.UI.Web.props" />
+</Project>

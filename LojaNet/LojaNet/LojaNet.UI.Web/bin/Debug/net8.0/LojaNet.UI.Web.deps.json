@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LojaNet.UI.Web/1.0.0": {
+        "dependencies": {
+          "LojaNet.Models": "1.0.0"
+        },
+        "runtime": {
+          "LojaNet.UI.Web.dll": {}
+        }
+      },
+      "LojaNet.Models/1.0.0": {
+        "runtime": {
+          "LojaNet.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LojaNet.UI.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LojaNet.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

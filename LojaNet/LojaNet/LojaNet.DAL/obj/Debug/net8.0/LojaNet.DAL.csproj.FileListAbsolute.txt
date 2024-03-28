@@ -1,0 +1,16 @@
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net8.0\LojaNet.DAL.deps.json
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net8.0\LojaNet.DAL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net8.0\LojaNet.DAL.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net8.0\LojaNet.Models.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net8.0\LojaNet.Models.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet.DAL.csproj.AssemblyReference.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet.DAL.AssemblyInfoInputs.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet.DAL.AssemblyInfo.cs
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet.DAL.sourcelink.json
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet..C3DD740B.Up2Date
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet.DAL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\refint\LojaNet.DAL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\LojaNet.DAL.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\workspace\Projeto Loja em C#\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net8.0\ref\LojaNet.DAL.dll

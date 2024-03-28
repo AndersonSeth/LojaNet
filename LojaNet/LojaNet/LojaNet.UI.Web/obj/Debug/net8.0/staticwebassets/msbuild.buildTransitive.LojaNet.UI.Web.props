@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LojaNet.UI.Web.props" />
+</Project>
