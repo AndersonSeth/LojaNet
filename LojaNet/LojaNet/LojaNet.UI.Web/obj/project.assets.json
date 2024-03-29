@@ -5706,19 +5706,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AndersonSilva\\.nuget\\packages\\": {}
+    "C:\\Users\\Anderson Seth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
       "projectName": "LojaNet.UI.Web",
-      "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
-      "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\obj\\",
+      "projectPath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
+      "packagesPath": "C:\\Users\\Anderson Seth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anderson Seth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5732,8 +5732,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
-              "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
+            "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+              "projectPath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
             }
           }
         }
