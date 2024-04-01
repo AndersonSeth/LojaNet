@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using LojaNet.UI.Web.Models;
 using System.Diagnostics;
-using LojaNet.Models; 
+using LojaNet.Models;
+using LojaNet.BLL;
 
 namespace LojaNet.UI.Web.Controllers
 {
@@ -13,6 +14,26 @@ namespace LojaNet.UI.Web.Controllers
             var cli = new Cliente();
             return View(cli);
         }
+
+        [HttpPost]
+            public ActionResult Incluir(Cliente cliente)
+        {
+            try
+            {
+
+
+                var bll = new ClienteBLL();
+                bll.Incluir(cliente);
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError(string.Empty, ex.Message);
+                return View(cliente);
+            }
+        }
+
+
         public ActionResult Index()
         {
             return View();

@@ -454,3 +454,13 @@ C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\obj\D
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\obj\Debug\net8.0\LojaNet.UI.Web.pdb
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\obj\Debug\net8.0\LojaNet.UI.Web.genruntimeconfig.cache
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\obj\Debug\net8.0\ref\LojaNet.UI.Web.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\LojaNet.BLL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\LojaNet.DAL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\LojaNet.BLL.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\LojaNet.DAL.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.UI.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

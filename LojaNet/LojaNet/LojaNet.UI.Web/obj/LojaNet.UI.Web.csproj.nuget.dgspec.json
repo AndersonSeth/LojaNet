@@ -1,20 +1,163 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj": {}
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.BLLL\\LojaNet.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
-        "projectName": "LojaNet.Models",
-        "projectPath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
-        "packagesPath": "C:\\Users\\Anderson Seth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\obj\\",
+        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.BLLL\\LojaNet.BLL.csproj",
+        "projectName": "LojaNet.BLL",
+        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.BLLL\\LojaNet.BLL.csproj",
+        "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.BLLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anderson Seth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj": {
+                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj"
+              },
+              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj",
+        "projectName": "LojaNet.DAL",
+        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj",
+        "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
+        "projectName": "LojaNet.Models",
+        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj",
+        "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +187,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,17 +213,17 @@
         }
       }
     },
-    "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj": {
+    "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
+        "projectUniqueName": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
         "projectName": "LojaNet.UI.Web",
-        "projectPath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
-        "packagesPath": "C:\\Users\\Anderson Seth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\obj\\",
+        "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\LojaNet.UI.Web.csproj",
+        "packagesPath": "C:\\Users\\AndersonSilva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anderson Seth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AndersonSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +237,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
-                "projectPath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
+              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.BLLL\\LojaNet.BLL.csproj": {
+                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.BLLL\\LojaNet.BLL.csproj"
+              },
+              "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+                "projectPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
               }
             }
           }
@@ -112,6 +264,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [

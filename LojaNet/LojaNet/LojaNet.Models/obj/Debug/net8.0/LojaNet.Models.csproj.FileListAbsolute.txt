@@ -34,3 +34,4 @@ C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\D
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\refint\LojaNet.Models.dll
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.pdb
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\ref\LojaNet.Models.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net8.0\LojaNet.Models.csproj.AssemblyReference.cache

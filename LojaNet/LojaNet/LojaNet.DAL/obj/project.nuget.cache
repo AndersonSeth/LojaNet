@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "3f0Uen/5j6SmNoRGaYZ8MUFU7GL2L+NaEqlU/ZUsEpzMPgTH578NsVtZQJmrtCyHVG6ZBtQYc3Q8L6dwXMk8aw==",
+  "dgSpecHash": "03SUMt7yPEgO5og/sBA0aF3scoZXjjcsT18mxZMGSTIEs2zLJNT0UQO7j0vaOTK4eC3AoETWEyjQRw2VB4FOMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anderson Seth\\source\\repos\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\AndersonSilva\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
