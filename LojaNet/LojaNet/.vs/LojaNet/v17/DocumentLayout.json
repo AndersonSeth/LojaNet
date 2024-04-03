@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A230269B-33BC-4D54-BFC7-2ED22D71C504}|LojaNet.UI.Web\\LojaNet.UI.Web.csproj|c:\\users\\andersonsilva\\onedrive - bsh law\\documentos\\works\\lojanet\\lojanet\\lojanet\\lojanet.ui.web\\views\\cliente\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A230269B-33BC-4D54-BFC7-2ED22D71C504}|LojaNet.UI.Web\\LojaNet.UI.Web.csproj|solutionrelative:lojanet.ui.web\\views\\cliente\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A230269B-33BC-4D54-BFC7-2ED22D71C504}|LojaNet.UI.Web\\LojaNet.UI.Web.csproj|c:\\users\\andersonsilva\\onedrive - bsh law\\documentos\\works\\lojanet\\lojanet\\lojanet\\lojanet.ui.web\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A230269B-33BC-4D54-BFC7-2ED22D71C504}|LojaNet.UI.Web\\LojaNet.UI.Web.csproj|solutionrelative:lojanet.ui.web\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{6F97606A-08A7-4079-96B5-0EB3B0B5D6FC}|LojaNet.BLLL\\LojaNet.BLL.csproj|solutionrelative:lojanet.blll\\clientebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE7F92FA-DC64-4BCB-896D-305485D037B9}|LojaNet.DAL\\LojaNet.DAL.csproj|c:\\users\\andersonsilva\\onedrive - bsh law\\documentos\\works\\lojanet\\lojanet\\lojanet\\lojanet.dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE7F92FA-DC64-4BCB-896D-305485D037B9}|LojaNet.DAL\\LojaNet.DAL.csproj|solutionrelative:lojanet.dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE7F92FA-DC64-4BCB-896D-305485D037B9}|LojaNet.DAL\\LojaNet.DAL.csproj|c:\\users\\andersonsilva\\onedrive - bsh law\\documentos\\works\\lojanet\\lojanet\\lojanet\\lojanet.dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE7F92FA-DC64-4BCB-896D-305485D037B9}|LojaNet.DAL\\LojaNet.DAL.csproj|solutionrelative:lojanet.dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F92FA-DC64-4BCB-896D-305485D037B9}|LojaNet.DAL\\LojaNet.DAL.csproj|c:\\users\\andersonsilva\\onedrive - bsh law\\documentos\\works\\lojanet\\lojanet\\lojanet\\lojanet.dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F92FA-DC64-4BCB-896D-305485D037B9}|LojaNet.DAL\\LojaNet.DAL.csproj|solutionrelative:lojanet.dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +34,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\Views\\Cliente\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "LojaNet.UI.Web\\Views\\Cliente\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\Views\\Cliente\\Detalhes.cshtml",
+              "RelativeToolTip": "LojaNet.UI.Web\\Views\\Cliente\\Detalhes.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T20:08:04.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\Views\\Cliente\\Index.cshtml",
               "RelativeDocumentMoniker": "LojaNet.UI.Web\\Views\\Cliente\\Index.cshtml",
               "ToolTip": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\Views\\Cliente\\Index.cshtml",
               "RelativeToolTip": "LojaNet.UI.Web\\Views\\Cliente\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-02T17:48:03.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "LojaNet.UI.Web\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.UI.Web\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "LojaNet.UI.Web\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAAAnAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T17:45:52.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ClienteBLL.cs",
               "DocumentMoniker": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.BLLL\\ClienteBLL.cs",
               "RelativeDocumentMoniker": "LojaNet.BLLL\\ClienteBLL.cs",
               "ToolTip": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.BLLL\\ClienteBLL.cs",
               "RelativeToolTip": "LojaNet.BLLL\\ClienteBLL.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwDgAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T17:38:38.849Z",
               "EditorCaption": ""
@@ -79,14 +104,14 @@
               "RelativeDocumentMoniker": "LojaNet.DAL\\ClienteDAL.cs",
               "ToolTip": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\ClienteDAL.cs",
               "RelativeToolTip": "LojaNet.DAL\\ClienteDAL.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAA4wAsAAAAXAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAIAwwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T17:27:34.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DbHelper.cs",
               "DocumentMoniker": "C:\\Users\\AndersonSilva\\OneDrive - BSH Law\\Documentos\\Works\\LojaNet\\LojaNet\\LojaNet\\LojaNet.DAL\\DbHelper.cs",
               "RelativeDocumentMoniker": "LojaNet.DAL\\DbHelper.cs",
@@ -94,16 +119,7 @@
               "RelativeToolTip": "LojaNet.DAL\\DbHelper.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAApwB0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:17:12.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-04-02T17:17:12.826Z"
             }
           ]
         }

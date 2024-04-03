@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LojaNet.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567610de3d8f426f069701dbf8c13f5e3dba451a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7acd2f74af78f0720cf0d18079f09b31f8171cf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LojaNet.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LojaNet.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

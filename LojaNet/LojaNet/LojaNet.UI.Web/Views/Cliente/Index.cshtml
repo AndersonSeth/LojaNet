@@ -19,7 +19,12 @@
     @foreach (var cliente in Model)
     {
         <tr>
-            <td>@cliente.Nome</td>
+            <td>
+
+              <a href="/Cliente/Detalhes/@cliente.Id"> @cliente.Nome</a>
+                
+            </td>
+
             <td>@cliente.Email</td>
         </tr>
     }

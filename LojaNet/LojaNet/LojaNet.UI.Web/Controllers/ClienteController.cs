@@ -8,6 +8,19 @@ namespace LojaNet.UI.Web.Controllers
 {
     public class ClienteController : Controller
     {
+        private ClienteBLL bll;
+
+        public ClienteController ()
+        {
+            bll = new ClienteBLL ();
+        }
+        public ActionResult Detalhes(string id)
+        {
+            var cliente = bll.ObterPorId(id);
+            return View(cliente);
+
+
+        }
 
         public ActionResult Incluir()
         {
@@ -36,7 +49,7 @@ namespace LojaNet.UI.Web.Controllers
 
         public ActionResult Index()
         {
-            var bll = new ClienteBLL();
+            
             var lista=bll.ObterTodos();
             return View(lista);
         }
