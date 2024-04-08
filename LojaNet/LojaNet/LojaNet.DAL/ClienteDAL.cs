@@ -5,6 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using LojaNet.Models;
+using Microsoft.AspNetCore.Http;
+using System.Web;
+
+
 
 namespace LojaNet.DAL
 {
@@ -26,6 +30,9 @@ namespace LojaNet.DAL
 
         public void Excluir(string Id)
         {
+            Cliente cliente = ObterPorId( Id );
+            SerializadorHelper.Serializar(@"C:\Users\AndersonSilva\Downloads\serializador teste\teste.xml", cliente);
+            
             DbHelper.ExecuteNonQuery("ClienteExcluir", "@Id", Id);
         }
 

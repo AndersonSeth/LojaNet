@@ -1,21 +1,3 @@
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.csproj.AssemblyReference.cache
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.AssemblyInfoInputs.cache
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.AssemblyInfo.cs
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.csproj.CoreCompileInputs.cache
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.sourcelink.json
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.deps.json
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.dll
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.pdb
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.DAL.dll
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.Models.dll
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.DAL.pdb
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.Models.pdb
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet..999E9D89.Up2Date
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.dll
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\refint\LojaNet.BLL.dll
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.pdb
-C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\ref\LojaNet.BLL.dll
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.deps.json
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.dll
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.pdb
@@ -34,3 +16,21 @@ C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Deb
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\refint\LojaNet.BLL.dll
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.pdb
 C:\Users\Anderson Seth\source\repos\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\ref\LojaNet.BLL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.deps.json
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.BLL.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.DAL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.Models.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.DAL.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\bin\Debug\net8.0\LojaNet.Models.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.csproj.AssemblyReference.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.AssemblyInfoInputs.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.AssemblyInfo.cs
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.csproj.CoreCompileInputs.cache
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.sourcelink.json
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet..999E9D89.Up2Date
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\refint\LojaNet.BLL.dll
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\LojaNet.BLL.pdb
+C:\Users\AndersonSilva\OneDrive - BSH Law\Documentos\Works\LojaNet\LojaNet\LojaNet\LojaNet.BLLL\obj\Debug\net8.0\ref\LojaNet.BLL.dll
